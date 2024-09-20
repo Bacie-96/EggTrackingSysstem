@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\UI design\EggTrackingApp\bin\Debug\EggTrackingApp.exe.config
+C:\Users\user\Desktop\UI design\EggTrackingApp\bin\Debug\EggTrackingApp.exe
+C:\Users\user\Desktop\UI design\EggTrackingApp\bin\Debug\EggTrackingApp.pdb
+C:\Users\user\Desktop\UI design\EggTrackingApp\obj\Debug\EggTrackingApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UI design\EggTrackingApp\obj\Debug\EggTrackingApp.LoginForm.resources
+C:\Users\user\Desktop\UI design\EggTrackingApp\obj\Debug\EggTrackingApp.Properties.Resources.resources
+C:\Users\user\Desktop\UI design\EggTrackingApp\obj\Debug\EggTrackingApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UI design\EggTrackingApp\obj\Debug\EggTrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UI design\EggTrackingApp\obj\Debug\EggTrackingApp.exe
+C:\Users\user\Desktop\UI design\EggTrackingApp\obj\Debug\EggTrackingApp.pdb
+C:\Users\user\Desktop\UI design\EggTrackingApp\obj\Debug\EggTrackingApp.EggTrackingForm.resources
+C:\Users\user\Desktop\UI design\EggTrackingApp\obj\Debug\EggTrackingApp.MonthlyReportForm.resources
